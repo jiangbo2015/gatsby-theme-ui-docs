@@ -1,0 +1,23 @@
+{
+  "name": "syntax-highlighting",
+  "version": "1.6.22",
+  "private": true,
+  "scripts": {
+    "build": "gatsby build",
+    "start": "gatsby develop"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "latest",
+    "@mdx-js/react": "latest",
+    "@theme-ui/preset-funk": "^0.10.0",
+    "@theme-ui/prism": "^0.10.0",
+    "gatsby": "^2.24.62",
+    "gatsby-plugin-mdx": "^1.2.40",
+    "gatsby-plugin-theme-ui": "^0.10.1",
+    "prismjs": "^1.24.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-live": "^2.2.2",
+    "theme-ui": "^0.10.0"
+  }
+}
